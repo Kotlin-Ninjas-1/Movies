@@ -7,5 +7,3 @@ To contribute, follow the following steps:
 2. Check out the **development** branch and work on your feature.
 3. Open a new PR against the development branch
 4. Enjoy the code.
-
-Our key is : **9ed751698b8b5963444886c285a5afb1**

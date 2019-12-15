@@ -6,27 +6,22 @@
     android:layout_height="match_parent"
     tools:context=".SearchViewActivity">
 
-    <EditText
-        android:id="@+id/etSearching"
-        android:layout_width="match_parent"
+    <SearchView
+        android:id="@+id/Searching"
+        android:layout_width="150dp"
         android:layout_height="50dp"
+        android:layout_marginLeft="250dp"
         android:background="@color/colorPrimary"
         android:hint="Search Button"
-        tools:ignore="Autofill,HardcodedText,TextFields">
+        />
 
 
-        <Button
-            android:id="@+id/btnSearch"
-            android:layout_width="50dp"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_marginLeft="400dp"
-            android:drawableLeft="@drawable/ic_search_black_24dp"
-            app:showAsAction="ifRoom|collapseActionView"
-            app:actionViewClass="android.widget.SearchView"
-            tools:ignore="HardcodedText,ObsoleteLayoutParam,RtlHardcoded" />
-
-    </EditText>
-
+<!--    <Button-->
+<!--        android:id="@+id/btnSearch"-->
+<!--        android:layout_width="50dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginLeft="350dp"-->
+<!--        android:drawableLeft="@drawable/ic_search_black_24dp"-->
+<!--        />-->
 
 </LinearLayout>

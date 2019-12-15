@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoviesNinja1</string>
+    <string name="title_activity_search_bar">SearchBar</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter text to search</string>
+    <string name="title_activity_search_view">SearchViewActivity</string>
 </resources>

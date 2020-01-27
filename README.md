@@ -1,3 +1,12 @@
+<p align="center">
+<a href="https://travis-ci.com/Kotlin-Ninjas-1/Movies">
+<img src="https://travis-ci.com/Kotlin-Ninjas-1/Movies.svg?branch=master"/>
+</a>
+<a href="https://codecov.io/gh/Kotlin-Ninjas-1/Movies">
+  <img src="https://codecov.io/gh/Kotlin-Ninjas-1/Movies/branch/master/graph/badge.svg" />
+</a>
+</p>
+
 # Movies
 This is the movie project for team one of Kotlin Ninjas
 This project will be purely **open source** so the key shall be shared here. We shall be using the
